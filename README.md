@@ -5,3 +5,6 @@ Python modules used in this notebook involve:
 - Numpy, Scipy.integrate, Matplotlib
 - Control
 - Networkx
+
+This repo was later used for all kinds of practice.
+
